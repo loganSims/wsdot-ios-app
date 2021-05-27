@@ -27,12 +27,6 @@ xcuserdata/
 *.dSYM.zip
 *.dSYM
 
-## Google Services
-GoogleService-Info.plist
-
-## Secrets
-Secrets.plist
-
 ## Playgrounds
 timeline.xctimeline
 playground.xcworkspace
